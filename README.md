@@ -1,5 +1,5 @@
 # Alunos
-- Juliana Dantas
+- Juliana Lisboa
 - Lucas Meira
 
 ## WIKI
