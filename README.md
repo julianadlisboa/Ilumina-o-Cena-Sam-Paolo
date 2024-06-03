@@ -1,5 +1,5 @@
-## Alunos
+# Alunos
 - Juliana Dantas
 - Lucas Meira
 
-# WKI
+## WIKI
